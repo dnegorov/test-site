@@ -9,8 +9,8 @@ paginate_path:    "page:num"
 highlighter:      rouge
 future:           false
 show_drafts:      false
-baseurl:          http://dnegorov.github.io/test-site
-url:              http://dnegorov.github.io/test-site
+baseurl:          /test-site
+
 
 
 author:

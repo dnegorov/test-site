@@ -1,9 +1,14 @@
 ---
 layout: post
 title: George Harrison's "Got My Mind Set On You"
-permalink: test-yt-template
+permalink: {{ site.baseurl }}{{ post.url }}
 tags: youtube
 ---
+
+{{ site.baseurl }}
+{{ site.url }}
+{{ post.url }}
+
 ![](assets/2020-11-07-test-yt-template/pm.jpg)
 Напомним, президентские выборы в США прошли 3 ноября, однако подсчет голосов затянулся. В избирательном штабе главы Белого дома заявили о массовых фальсификациях со стороны демократов, в том числе в штате Пенсильвания.
 

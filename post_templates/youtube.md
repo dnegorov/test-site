@@ -1,6 +1,6 @@
 layout: post
 title: Post with YouTube videos
-permalink: setup-blog-on-github/
+permalink: {{ site.baseurl }}{{ post.url }}
 tags: youtube
 
 # Header
