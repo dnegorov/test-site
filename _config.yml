@@ -9,9 +9,9 @@ paginate_path:    "page:num"
 highlighter:      rouge
 future:           false
 show_drafts:      false
-
+baseurl:          ""
 url:              http://www.dnegorov.com
-shorturl:         dnegorov.com
+
 
 author:
   name:           Denis Egorov
