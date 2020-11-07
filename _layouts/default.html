@@ -11,7 +11,7 @@
         <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
         {% for page in site.pages_list %}
         &nbsp;&nbsp;&nbsp;
-        <a href="{{ page[1]  }}">{{ page[0] }}</a>
+        <a href="{{ site.baseurl }}{{ page[1]  }}">{{ page[0] }}</a>
         {% endfor %}
 
         <p> <small>{{ site.tagline }}</small> </p>
@@ -22,7 +22,7 @@
 
     <div class="footer">
       <div id="scrollup">
-        <img src="/public/up.png" class="up" alt="Scroll up" />
+        <img src="{{ site.baseurl }}/public/up.png" class="up" alt="Scroll up" />
       </div>
       <p>
         &copy; {{ site.time | date: '%Y' }}. All rights reserved.
