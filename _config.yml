@@ -10,7 +10,7 @@ highlighter:      rouge
 future:           false
 show_drafts:      false
 baseurl:          ""
-url:              http://www.dnegorov.com
+url:              http://dnegorov.github.io/test-site/
 
 
 author:
