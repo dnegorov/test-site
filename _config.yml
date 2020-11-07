@@ -15,8 +15,8 @@ author:
 
 # This is the list of pages to include in the header of the website.
 pages_list:
-  Автор: '/about'
-  Архив: '/archive'
+  Автор: '/about/'
+  Архив: '/archive/'
 
 plugins:
   - jemoji
