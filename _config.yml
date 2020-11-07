@@ -12,7 +12,6 @@ show_drafts:      false
 baseurl:          /test-site
 
 
-
 author:
   name:           Denis Egorov
   url:            dnegorov.com
