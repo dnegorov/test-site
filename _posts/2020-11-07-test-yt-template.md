@@ -6,8 +6,9 @@ published: true
 excerpt_separator: <!--cut-->
 permalink: pretty
 ---
-<img src="assets/plug.png" style="height: 0; width: 0;">
+
 ![Header image](assets/2020-11-07-test-yt-template/pm.jpg)
+<img src="assets/plug.png" style="height: 0; width: 0;">
 
 ## Text before cut
 
