@@ -1,0 +1,28 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Blog
+tagline:          'GitHub Pages test'
+paginate:         10
+paginate_path:    "page:num"
+highlighter:      rouge
+future:           false
+show_drafts:      false
+
+url:              http://www.dnegorov.com
+shorturl:         dnegorov.com
+
+author:
+  name:           Denis Egorov
+  url:            dnegorov.com
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  Автор: '/about'
+  Архив: '/archive'
+
+plugins:
+  - jemoji
+  - jekyll-paginate
+  - jekyll-gist
