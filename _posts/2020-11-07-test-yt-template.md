@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Template
-categories: tech # post article tech music life
+categories: temp # post article tech music life
 tags: youtube tech
 published: true
 excerpt_separator: <!--cut-->
 ---
 
 <img style="width: 100%;" src="{{ site.baseurl }}/assets/templates/cd-box.svg">
+<img style="width: 0; height: 0" src="{{ site.baseurl }}/assets/templates/cd-box.png">
 
 ## Text before cut
 
