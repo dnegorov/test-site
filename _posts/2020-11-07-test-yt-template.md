@@ -1,14 +1,13 @@
 ---
 layout: post
 title: George Harrison's "Got My Mind Set On You"
+categories: article music
 tags: youtube
 published: true
 excerpt_separator: <!--cut-->
-permalink: pretty
 ---
 
-![Header image](assets/2020-11-07-test-yt-template/pm.jpg)
-<img src="assets/plug.png" style="height: 0; width: 0;">
+<img src="/assets/2020-11-07-test-yt-template/pm.jpg" style="height: 0; width: 0;">
 
 ## Text before cut
 

@@ -8,6 +8,7 @@ highlighter:      rouge
 future:           false
 show_drafts:      false
 baseurl:          /test-site
+permalink: /:categories/:title:output_ext
 
 author:
   name:           Denis Egorov
