@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Template
-categories: post # article tech music life
+categories: article # post article tech music life
 tags: youtube
 published: true
 excerpt_separator: <!--cut-->
 ---
-![Header image](/assets/plug.png)
+![Header image]({{ site.baseurl }}/assets/plug.png)
 
 ## Text before cut
 
