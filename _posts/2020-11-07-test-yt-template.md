@@ -7,8 +7,8 @@ published: true
 excerpt_separator: <!--cut-->
 ---
 
-<img style="width: 100%;" src="{{ site.baseurl }}/assets/templates/cd-box.svg">
-<img style="width: 0; height: 0" src="{{ site.baseurl }}/assets/templates/cd-box.png">
+<img style="width: 100%;" src="{{ site.baseurl }}/assets/templates/pencil.svg">
+<img style="width: 0; height: 0" src="{{ site.baseurl }}/assets/templates/pencil.png">
 
 ## Text before cut
 
