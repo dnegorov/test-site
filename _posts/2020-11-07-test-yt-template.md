@@ -6,7 +6,12 @@ tags: youtube
 published: true
 excerpt_separator: <!--cut-->
 ---
-![Header image]({{ site.baseurl }}/assets/plug.png)
+
+<svg style="width: 100px; fill: red;">
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl }}/assets/youtube_icon.svg#youtube">
+    </use>
+</svg>
+
 
 ## Text before cut
 
