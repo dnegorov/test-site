@@ -1,16 +1,13 @@
 ---
 layout: post
 title: Template
-categories: music # post article tech music life
-tags: youtube
+categories: tech # post article tech music life
+tags: youtube tech
 published: true
 excerpt_separator: <!--cut-->
 ---
 
-<svg style="width: 100px; fill: red;">
-    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl }}/assets/youtube_icon.svg#youtube">
-    </use>
-</svg>
+<img style="width: 100%;" src="{{ site.baseurl }}/assets/templates/cd-box.svg">
 
 ## Text before cut
 
@@ -18,7 +15,6 @@ excerpt_separator: <!--cut-->
 
 ## Text after cut
 
-<img style="width: 0px; height: 0px;" src="{{ site.baseurl }}/assets/2020-11-07-test-yt-template/pm.jpg">
 
 ### Table
 
@@ -36,6 +32,11 @@ YouTube video
 {: .color-red}
 
 <iframe style="width: 100%; height: 20rem" src="https://www.youtube.com/embed/6ZwjdGSqO0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<svg style="width: 100px; fill: red;">
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl }}/assets/youtube_icon.svg#youtube">
+    </use>
+</svg>
 
 <style>
 .color-red {
