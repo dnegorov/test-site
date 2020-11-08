@@ -18,6 +18,8 @@ excerpt_separator: <!--cut-->
 
 ## Text after cut
 
+![Image]({{ site.baseurl }}/assets/2020-11-07-test-yt-template/pm.jpg)
+
 ### Table
 
 | column 0 | column 1 | column 2 |
