@@ -8,7 +8,7 @@ excerpt_separator: <!--cut-->
 ---
 
 <img style="width: 100%;" src="{{ site.baseurl }}/assets/templates/pencil.svg">
-<img style="width: 0; height: 0" src="{{ site.baseurl }}/assets/fb/templates/pencil.png">
+<img style="width: 0; height: 0" src="{{ site.baseurl }}/assets/templates/fb/pencil.png">
 
 ## Text before cut
 
