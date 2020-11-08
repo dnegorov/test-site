@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template
-categories: temp # post article tech music life
+categories: test # post article tech music life
 tags: youtube tech
 published: true
 excerpt_separator: <!--cut-->
