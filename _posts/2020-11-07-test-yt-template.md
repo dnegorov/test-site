@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template
-categories: article # post article tech music life
+categories: music # post article tech music life
 tags: youtube
 published: true
 excerpt_separator: <!--cut-->
@@ -18,7 +18,7 @@ excerpt_separator: <!--cut-->
 
 ## Text after cut
 
-![Image]({{ site.baseurl }}/assets/2020-11-07-test-yt-template/pm.jpg)
+<img style="width: 0px; height: 0px;" src="{{ site.baseurl }}/assets/2020-11-07-test-yt-template/pm.jpg">
 
 ### Table
 
