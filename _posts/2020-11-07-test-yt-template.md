@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Template
-categories: trr # post article tech music life
-tags: youtube tech temp fb17
+categories: erty # post article tech music life
+tags: youtube tech temp fb18
 published: true
 excerpt_separator: <!--cut-->
 fb_picture: /assets/2020-11-07-test-yt-template/mqdefault.jpg
