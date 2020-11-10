@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Template
-categories: tmplt # post article tech music life
-tags: youtube tech temp fb11
+categories: tmplte # post article tech music life
+tags: youtube tech temp fb12
 published: true
 excerpt_separator: <!--cut-->
 fb_picture: /assets/templates/cd-box.png
