@@ -6,6 +6,7 @@ tags: youtube tech temp fb7
 published: true
 excerpt_separator: <!--cut-->
 fb_picture: /assets/templates/fb/write.png
+description: Short description of article in 10 words
 ---
 
 ![alt]({{site.url }}{{ site.baseurl }}/assets/templates/cd-box.svg)
