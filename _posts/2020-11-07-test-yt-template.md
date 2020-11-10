@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Template
-categories: tmp # post article tech music life
-tags: youtube tech temp fb
+categories: template # post article tech music life
+tags: youtube tech temp fb1
 published: true
 excerpt_separator: <!--cut-->
 ---
@@ -14,7 +14,7 @@ excerpt_separator: <!--cut-->
 
 page name: {{ page.title }}
 
-page address: {{site.url}}{{ page.url }}
+page address: {{site.url}}{{ site.baseurl }}{{ page.url }}
 
 <!--cut-->
 
