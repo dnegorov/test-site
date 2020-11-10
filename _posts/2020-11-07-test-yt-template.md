@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Template
-categories: templt # post article tech music life
-tags: youtube tech temp fb7
+categories: tempt # post article tech music life
+tags: youtube tech temp fb10
 published: true
 excerpt_separator: <!--cut-->
 fb_picture: /assets/templates/fb/write.png
