@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Template
-categories: tmplt # post article tech music life
-tags: youtube tech temp fb4
+categories: tempt # post article tech music life
+tags: youtube tech temp fb5
 published: true
 excerpt_separator: <!--cut-->
 fb_picture: /assets/templates/fb/pencil.png
 ---
 
-![alt]({{site.baseurl }}{{ site.baseurl }}/assets/templates/cd-box.svg)
+![alt]({{site.url }}{{ site.baseurl }}/assets/templates/cd-box.svg)
 
 ## Text before cut
 
