@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Template
-categories: tmp # post article tech music life
-tags: youtube tech temp fb3
+categories: tmplt # post article tech music life
+tags: youtube tech temp fb4
 published: true
 excerpt_separator: <!--cut-->
 fb_picture: /assets/templates/fb/pencil.png
