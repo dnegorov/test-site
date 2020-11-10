@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Template
-categories: tttt # post article tech music life
-tags: youtube tech temp fb16
+categories: trr # post article tech music life
+tags: youtube tech temp fb17
 published: true
 excerpt_separator: <!--cut-->
 fb_picture: /assets/2020-11-07-test-yt-template/mqdefault.jpg
+fb_picture_width: 480
+fb_picture_height: 360
 description: Short description of article in 10 words
 ---
 
