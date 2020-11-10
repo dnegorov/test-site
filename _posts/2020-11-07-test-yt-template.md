@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Template
-categories: templ # post article tech music life
-tags: youtube tech temp
+categories: tmp # post article tech music life
+tags: youtube tech temp fb
 published: true
 excerpt_separator: <!--cut-->
 ---
@@ -10,8 +10,11 @@ excerpt_separator: <!--cut-->
 <img style="width: 0; height: 0" src="{{ site.baseurl }}/assets/templates/fb/pencil.png">
 <img style="width: 100%;" src="{{ site.baseurl }}/assets/templates/pencil.svg">
 
-
 ## Text before cut
+
+page name: {{ page.title }}
+
+page address: {{site.url}}{{ page.url }}
 
 <!--cut-->
 
@@ -24,6 +27,7 @@ excerpt_separator: <!--cut-->
 | -------: | :------: | :------- |
 |    row 1 |  data 1  | data 2   |
 
+<div class="fb-share-button" data-href="{{site.url}}{{ page.url }}" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u{{site.url}}{{ page.url }}&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Поделиться</a></div>
 
 <details>
 <summary markdown="span">First level collapsible item</summary>
@@ -39,6 +43,8 @@ YouTube video
     <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl }}/assets/youtube_icon.svg#youtube">
     </use>
 </svg>
+
+---
 
 <style>
 .color-red {
