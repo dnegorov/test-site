@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Template
-categories: tmplte # post article tech music life
-tags: youtube tech temp fb12
+categories: template # post article tech music life
+tags: youtube tech temp fb13
 published: true
 excerpt_separator: <!--cut-->
-fb_picture: /assets/templates/cd-box.png
+fb_picture: https://img.youtube.com/vi/JMJXvsCLu6s/hqdefault.jpg
 description: Short description of article in 10 words
 ---
 
