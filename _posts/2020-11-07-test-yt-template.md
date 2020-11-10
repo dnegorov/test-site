@@ -1,20 +1,20 @@
 ---
 layout: post
 title: Template
-categories: templt # post article tech music life
-tags: youtube tech temp fb2
+categories: tmp # post article tech music life
+tags: youtube tech temp fb3
 published: true
 excerpt_separator: <!--cut-->
+fb_picture: /assets/templates/fb/pencil.png
 ---
 
-<img style="width: 0; height: 0" src="{{ site.baseurl }}/assets/templates/fb/pencil.png">
-![]({{ site.baseurl }}/assets/templates/cdbox.svg)
+![alt]({{site.baseurl }}{{ site.baseurl }}/assets/templates/cd-box.svg)
 
 ## Text before cut
 
 page name: {{ page.title }}
 
-page address: {{site.url}}{{ site.baseurl }}{{ page.url }}
+page address: {{ site.url }}{{ site.baseurl }}{{ page.url }}
 
 <!--cut-->
 
@@ -37,7 +37,7 @@ page address: {{site.url}}{{ site.baseurl }}{{ page.url }}
 YouTube video
 {: .color-red}
 
-<iframe style="width: 100%; height: 20rem" src="https://www.youtube.com/embed/6ZwjdGSqO0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <svg style="width: 100px; fill: red;">
     <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl }}/assets/youtube_icon.svg#youtube">
