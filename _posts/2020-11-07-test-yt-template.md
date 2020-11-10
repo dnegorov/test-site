@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Template
-categories: templ # post article tech music life
-tags: youtube tech temp fb6
+categories: templt # post article tech music life
+tags: youtube tech temp fb7
 published: true
 excerpt_separator: <!--cut-->
-fb_picture: /assets/templates/fb/pencil.png
+fb_picture: /assets/templates/fb/write.png
 ---
 
 ![alt]({{site.url }}{{ site.baseurl }}/assets/templates/cd-box.svg)

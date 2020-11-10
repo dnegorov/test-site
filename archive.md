@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Архив
+fb_picture: /assets/templates/fb/write.png
 ---
 
 {% for post in site.posts %}

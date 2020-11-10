@@ -1,6 +1,7 @@
 ---
 layout: page
 title: О блоге
+fb_picture: /assets/templates/fb/write.png
 ---
 
 
