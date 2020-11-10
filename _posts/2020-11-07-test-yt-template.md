@@ -5,7 +5,7 @@ categories: tmplt # post article tech music life
 tags: youtube tech temp fb11
 published: true
 excerpt_separator: <!--cut-->
-fb_picture: /assets/templates/cd-box.svg
+fb_picture: /assets/templates/cd-box.png
 description: Short description of article in 10 words
 ---
 

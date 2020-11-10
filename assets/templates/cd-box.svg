@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
-  <g id="Capa_2">
+<svg viewBox="0 0 950 950" xmlns="http://www.w3.org/2000/svg">
+  <g id="Capa_2" transform="matrix(1, 0, 0, 1, -489.8, -74.91075)">
     <path id="XMLID_106_" fill="#D4F4F2" d="M495,250.4l48.3,400.4c0,0,151.2,367.4,149.7,362.3c-1.5-5,0-447,0-447l208.7-123.8 l12.3-1.4l420.2,84.9l80.5-371.6L932.3,78.8L908.5,78L495,235.8V250.4z"/>
   </g>
-  <g id="Capa_3">
+  <g id="Capa_3" transform="matrix(1, 0, 0, 1, -489.8, -74.91075)">
     <path id="XMLID_28_" fill="none" stroke="#000000" stroke-width="4.252" stroke-miterlimit="10" d="M493.8,241 c0,0,52.6,405.7,49.6,409.8S655.9,883.1,693,1013.2c0,0,7.2-432.5,0-447C693,566.2,571.2,330.8,493.8,241z"/>
     <path id="XMLID_29_" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M494,240.9l14.4-10.3 c0,0,398.4-141.4,398.4-146.6c0-5.2,25.4-7.4,25.6-5.3c0.2,2.1-18.4,362.2-18.4,362.2H904L693,566.2"/>
     <path id="XMLID_30_" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M913.9,441 c3.1-6.5,420.2,84.9,420.2,84.9l80.5-371.6c0,0-406.1-55-482.3-75.5"/>
