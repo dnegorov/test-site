@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Template
-categories: template # post article tech music life
-tags: youtube tech temp fb1
+categories: templt # post article tech music life
+tags: youtube tech temp fb2
 published: true
 excerpt_separator: <!--cut-->
 ---
 
 <img style="width: 0; height: 0" src="{{ site.baseurl }}/assets/templates/fb/pencil.png">
-<img style="width: 100%;" src="{{ site.baseurl }}/assets/templates/pencil.svg">
+![]({{ site.baseurl }}/assets/templates/cdbox.svg)
 
 ## Text before cut
 
