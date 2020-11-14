@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Template 19
+title: Template 20
 categories: werty # post article tech music life
-tags: youtube tech temp fb19
+tags: youtube tech temp fb20
 published: true
 excerpt_separator: <!--cut-->
-fb_picture: /assets/templates/fb/pencil.png
-fb_picture_width: 1200
-fb_picture_height: 628
+fb_picture: /assets/templates/write-640.png # full path to preview picture for social media: Facebook (1200x628px or 476x249px)
+fb_picture_width: 640
+fb_picture_height: 640
 description: Short description of article in 10 words
 ---
 
