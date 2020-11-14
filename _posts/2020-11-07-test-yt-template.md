@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Template 20
-categories: werty # post article tech music life
-tags: youtube tech temp fb20
+title: Template 21
+categories: qwerty # post article tech music life
+tags: youtube tech temp fb21
 published: true
 excerpt_separator: <!--cut-->
-fb_picture: /assets/templates/write-640.png # full path to preview picture for social media: Facebook (1200x628px or 476x249px)
-fb_picture_width: 640
-fb_picture_height: 640
+fb_picture: /assets/templates/fb/cd-box-1200x628.png # full path to preview picture for social media: Facebook (1200x628px or 476x249px)
+fb_picture_width: 1200
+fb_picture_height: 628
 description: Short description of article in 10 words
 ---
 
-![alt]({{site.url }}{{ site.baseurl }}/assets/templates/cd-box.svg)
+![alt]({{site.url }}{{ site.baseurl }}{{ page.fb_picture }})
 
 ## Text before cut
 
@@ -30,7 +30,10 @@ page address: {{ site.url }}{{ site.baseurl }}{{ page.url }}
 | -------: | :------: | :------- |
 |    row 1 |  data 1  | data 2   |
 
-<div class="fb-share-button" data-href="{{site.url}}{{ page.url }}" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u{{site.url}}{{ page.url }}&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Поделиться</a></div>
+  <div class="fb-share-button" data-href="{{site.url}}{{ site.baseurl }}{{ page.url }}" data-layout="button_count"
+    data-size="small"><a target="_blank"
+      href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{ site.baseurl }}{{ page.url }}&amp;src=sdkpreparse"
+      class="fb-xfbml-parse-ignore">Поделиться</a></div>
 
 <details>
 <summary markdown="span">First level collapsible item</summary>
@@ -39,7 +42,6 @@ page address: {{ site.url }}{{ site.baseurl }}{{ page.url }}
 
 YouTube video
 {: .color-red}
-
 
 
 <svg style="width: 100px; fill: red;">
