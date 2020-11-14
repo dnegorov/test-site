@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Template 22
-categories: qwwerty # categories for articles: post article tech music life (/post/music/tech/life/2020-12-12-test-article.html)
-tags: youtube tech temp fb22 # Tags cloud
+title: Template 23
+categories: qwwwerty # categories for articles: post article tech music life (/post/music/tech/life/2020-12-12-test-article.html)
+tags: youtube tech temp fb23 # Tags cloud
 published: true # Post not published in blog if false
 excerpt_separator: <!--cut-->
 fb_picture: /assets/templates/fb/cd-box-1200x628.png # full path to preview picture for social media: Facebook (1200x628px or 476x249px)
