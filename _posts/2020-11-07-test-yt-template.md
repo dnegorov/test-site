@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Template
-categories: erty # post article tech music life
-tags: youtube tech temp fb18
+title: Template 19
+categories: werty # post article tech music life
+tags: youtube tech temp fb19
 published: true
 excerpt_separator: <!--cut-->
-fb_picture: assets/templates/fb/pencil.png
+fb_picture: /assets/templates/fb/pencil.png
 fb_picture_width: 1200
 fb_picture_height: 628
 description: Short description of article in 10 words
