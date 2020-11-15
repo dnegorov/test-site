@@ -1,7 +1,7 @@
 ---
 layout: page
-title: О блоге
-fb_picture: /assets/templates/fb/write.png
+title: Автор
+fb_picture: /assets/templates/fb/write-1200x628.png
 ---
 
 

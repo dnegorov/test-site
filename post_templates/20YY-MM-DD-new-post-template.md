@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Template 23
-categories: qwwwerty # categories for articles: post article tech music life (/post/music/tech/life/2020-12-12-test-article.html)
-tags: youtube tech temp fb23 # Tags cloud
-published: true # Post not published in blog if false
+title: Template 24
+categories: test # categories for articles: post article tech music life (/post/music/tech/life/2020-12-12-test-article.html)
+tags: youtube tech temp fb24 # Tags cloud
+published: false # Post not published in blog if false
 excerpt_separator: <!--cut-->
 fb_picture: /assets/templates/fb/write-1200x628.png # full path to preview picture for social media: Facebook (1200x628px or 476x249px)
 fb_picture_width: 1200 # Image width in pixels: 1200 or 476 for Facebook
@@ -13,7 +13,7 @@ description: Article description for social networks. Short review of article or
 [comment]: # (Start OF POST)
 [comment]: # (Start of excerpt block)
 
-[comment]: # (Header image of article.)
+[comment]: # (Header image of article)
 ![Title image]({{site.url }}{{ site.baseurl }}/assets/templates/pencil-1280-288.png)
 
 ## Text before cut

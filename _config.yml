@@ -1,7 +1,7 @@
 
 # Setup
 title:            Blog
-tagline:          'GitHub Pages test'
+tagline:          'Denis Egorov'
 paginate:         10
 paginate_path:    "page:num"
 highlighter:      rouge
